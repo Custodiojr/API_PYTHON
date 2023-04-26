@@ -1,0 +1,10 @@
+#Url base => localhost
+#Endponts => {
+#localhost/livros (GET)
+#localhost/livros/id (GET)
+#localhost/livros/id (POST)
+#localhost/livros/ id (PUT)
+#localhost/livros/ id (DELETE)
+#}
+#Criar um crud de livros
+#Recuros a disponibilzar - livros
